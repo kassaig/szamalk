@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_144" class="java.beans.XMLDecoder">
+ <object class="x20171129.Student" id="Student0">
+  <void class="x20171129.Student" method="getField">
+   <string>name</string>
+   <void method="set">
+    <object idref="Student0"/>
+    <string>B C</string>
+   </void>
+  </void>
+  <void class="x20171129.Student" method="getField">
+   <string>age</string>
+   <void method="set">
+    <object idref="Student0"/>
+    <int>22</int>
+   </void>
+  </void>
+ </object>
+ <object class="x20171129.Student"/>
+</java>
